@@ -1,0 +1,15 @@
+/home/deadend/Documents/learnDotNet/bin/Debug/net7.0/learnDotNet
+/home/deadend/Documents/learnDotNet/bin/Debug/net7.0/learnDotNet.deps.json
+/home/deadend/Documents/learnDotNet/bin/Debug/net7.0/learnDotNet.runtimeconfig.json
+/home/deadend/Documents/learnDotNet/bin/Debug/net7.0/learnDotNet.dll
+/home/deadend/Documents/learnDotNet/bin/Debug/net7.0/learnDotNet.pdb
+/home/deadend/Documents/learnDotNet/obj/Debug/net7.0/learnDotNet.csproj.AssemblyReference.cache
+/home/deadend/Documents/learnDotNet/obj/Debug/net7.0/learnDotNet.GeneratedMSBuildEditorConfig.editorconfig
+/home/deadend/Documents/learnDotNet/obj/Debug/net7.0/learnDotNet.AssemblyInfoInputs.cache
+/home/deadend/Documents/learnDotNet/obj/Debug/net7.0/learnDotNet.AssemblyInfo.cs
+/home/deadend/Documents/learnDotNet/obj/Debug/net7.0/learnDotNet.csproj.CoreCompileInputs.cache
+/home/deadend/Documents/learnDotNet/obj/Debug/net7.0/learnDotNet.dll
+/home/deadend/Documents/learnDotNet/obj/Debug/net7.0/refint/learnDotNet.dll
+/home/deadend/Documents/learnDotNet/obj/Debug/net7.0/learnDotNet.pdb
+/home/deadend/Documents/learnDotNet/obj/Debug/net7.0/learnDotNet.genruntimeconfig.cache
+/home/deadend/Documents/learnDotNet/obj/Debug/net7.0/ref/learnDotNet.dll
